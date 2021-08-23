@@ -7,3 +7,5 @@
 -[Examen diagnostico](https://github.com/Msepulveda2011/Mineria-de-datos-/blob/main/Ex-Diagnostico_1862646.pdf)
 
 -[Ejercicio base de datos](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Equipo_4-Ejercicio%20base%20de%20datos.pdf)
+
+-[Ejercicios basicos de python](https://github.com/Msepulveda2011/Mineria-de-datos-/blob/main/Ej_Python_1862646.ipynb)
