@@ -10,6 +10,6 @@
 
 - [Ejercicios basicos de python](https://github.com/Msepulveda2011/Mineria-de-datos-/blob/main/Ej_Python_1862646.ipynb)
 
-- [Práctica1 - Limpieza de datos]
+- [Práctica1 - Limpieza de datos](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Ej_Limpieza_Equipo4.ipynb)
 
--  [Primer avance PIA]
+-  [Primer avance PIA](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Avance1_PIA_Equipo4.ipynb)
